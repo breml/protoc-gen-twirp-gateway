@@ -1,4 +1,4 @@
-module github.com/shanna/protoc-gen-twirp-gateway
+module github.com/breml/protoc-gen-twirp-gateway
 
 go 1.12
 
